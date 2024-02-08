@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Michael's GitHub Banner](./assets/github-header-image.png)]
+[!Static Badge](https://img.shields.io/badge/Profile-blue?logo=LinkedIn&logoColor=%23fffff2)](www.linkedin.com%2Fin%2Fmichael-kerr-84a91528a)
+[![Visits Badge](https://badges.pufler.dev/visits/IvyMike98/IvyMike98)
+
+<p>I am a student developer currently teaching myself HTML, Javascript, and CSS.</p>
