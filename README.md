@@ -1,21 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Michael Kerr
+#### Student Developer
+![Student Developer](https://i.imgur.com/qITPKeg.png)
 
-<!--
-**IvyMike98/IvyMike98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught developer from Michigan. I'm only getting started and am unsure where this career change & journey will take me. I'm currently learning HTML, CSS, and Javascript. I do know a little C# too!
 
-Here are some ideas to get you started:
+Skills: Working on it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Header](./assets/github-header-image.png)
-![Static Badge](https://img.shields.io/badge/Profile-blue?logo=LinkedIn&logoColor=%23fffff2)(https://www.linkedin.com%2Fin%2Fmichael-kerr-84a91528a)]
-![Visits Badge](https://badges.pufler.dev/visits/IvyMike98/IvyMike98)
+- 🔭 I’m currently working on My own website 
+- 🌱 I’m currently learning HTML, CSS, JS 
+- 📫 How to reach me: michaelkwork98@gmail.com 
+- ⚡ Fun fact: I've been building PC's since 14! 
 
-<p>I am a student developer currently teaching myself HTML, Javascript, and CSS.</p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IvyMike98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/michael-kerr-84a91528a/)  
+
