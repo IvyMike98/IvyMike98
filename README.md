@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[!Michael's GitHub Banner](./assets/github-header-image.png)
+![Header](./assets/github-header-image.png)
 ![Static Badge](https://img.shields.io/badge/Profile-blue?logo=LinkedIn&logoColor=%23fffff2)(https://www.linkedin.com%2Fin%2Fmichael-kerr-84a91528a)]
 ![Visits Badge](https://badges.pufler.dev/visits/IvyMike98/IvyMike98)
 
